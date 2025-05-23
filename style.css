@@ -71,3 +71,10 @@ p {
     border-left: none;
 }
 
+.circle {
+    border-color: #bf5239;
+}
+
+.circle-mask {
+    border-color: #e85a71;
+}
