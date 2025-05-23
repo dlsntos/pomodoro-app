@@ -11,6 +11,7 @@ html {
 h1 {
     margin: 0 auto 10px auto;
     color: #d8e9ef;
+    text-align: center;
 }
 
 p { 
@@ -21,6 +22,7 @@ p {
 .app-message {
     height: 20px;
     margin: 10px auto 20px auto;
+    text-align: center;
 }
 
 .app-container {
