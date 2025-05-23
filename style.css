@@ -13,8 +13,9 @@ h1 {
     color: #d8e9ef;
 }
 
-p {
+p { 
     margin: 0;
+    margin-left: 28px;
 }
 
 .app-message {
@@ -97,6 +98,7 @@ button {
     background: none;
     outline: none;
     color: #d8e9ef;
+    margin-left: 65px;
 }
 
 button:hover {
